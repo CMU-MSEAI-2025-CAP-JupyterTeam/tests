@@ -1,1 +1,1 @@
-This repository includes test suit for RAG Agent and results
+This repository includes a test suit for LLM and RAG Agent and corresponding results.
