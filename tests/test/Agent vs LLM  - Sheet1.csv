@@ -1,0 +1,11 @@
+ Prompt,Agent response,Rating (/5),LLM Response,Rating (/5)
+How should I encode categorical variables in my dataset?,,,,
+Which machine learning model should I use for my dataset?,,,,
+How can I improve my model’s performance?,,,,
+Which features are most important for my model?,,,,
+How should I split my dataset for training and testing?,,,,
+My dataset has imbalanced classes. How should I handle this?,,,,
+What’s the best way to deploy my trained model?,,,,
+How do I know if my model is overfitting?,,,,
+How can I explain my model’s predictions to non-technical users?,,,,
+How can I detect outliers in my dataset?,,,,
